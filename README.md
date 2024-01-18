@@ -37,8 +37,6 @@ python trainer_lemo.py --class_name all --data_path [/path/to/dataset/] --cnn wr
 
 ## Performance 
 ### WideResNet-50
-R : resize. 
-C : crop
 
 |                |     Official LeMO     |      Ours      |
 |----------------|-----------------------|----------------|
