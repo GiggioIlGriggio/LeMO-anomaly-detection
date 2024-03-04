@@ -32,7 +32,7 @@ test data:
 
 ### Example
 ```
-python trainer_lemo.py --class_name all --data_path [/path/to/dataset/] --cnn wrn50_2 --size 224 --gamma_c 1 --gamma_d 1 --loss NCENEW --memory_update kmeans
+python trainer_lemo.py --class_name all --data_path [/path/to/dataset/] --results_path [/path/to/results/] --cnn wrn50_2 --size 224 --gamma_c 1 --gamma_d 1 --loss NCENEW --memory_update kmeans
 ```
 
 ## Performance 
